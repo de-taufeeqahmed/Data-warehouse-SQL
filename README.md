@@ -4,3 +4,4 @@ Welcome to the **Data Warehouse and Analytics Project repository!** 🚀This p
 
 # 🏗️ Data Architecture
 
+![Alt Text]()
