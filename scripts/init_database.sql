@@ -23,7 +23,7 @@ BEGIN
 END;
 
 
--- Create the 'DataWarehouse' database
+-- Create the 'warehouse' database
 CREATE DATABASE Warehouse;
 
 USE Warehouse;
