@@ -4,4 +4,4 @@ Welcome to the **Data Warehouse and Analytics Project repository!** 🚀This p
 
 # 🏗️ Data Architecture
 
-![Alt Text]()
+![Alt Text](https://github.com/de-taufeeqahmed/Data-warehouse-SQL/blob/main/Warehouse_architecture.jpg)
