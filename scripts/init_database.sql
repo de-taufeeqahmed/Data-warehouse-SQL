@@ -13,14 +13,13 @@ WARNING:
     and ensure you have proper backups before running this script.
 */
 
-USE master;
-GO
+USE mysql;
 
--- Drop and recreate the 'DataWarehouse' database
-IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse')
+-- Drop and recreate the 'Warehouse' database
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'warehouse')
 BEGIN
-    ALTER DATABASE DataWarehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    DROP DATABASE DataWarehouse;
+    ALTER DATABASE Warehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE Warehouse;
 END;
 
 
