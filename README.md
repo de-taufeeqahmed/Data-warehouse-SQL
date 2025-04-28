@@ -91,3 +91,7 @@ For more details, refer to docs/requirements.md.
 
 # 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+# 🌟 About Me :
+Hi there, Iam Taufeeq Ahmed, professionally data analyst and certified data enthusiast. I love to play with data tools and make others feel data enjoyable.
+
